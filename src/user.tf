@@ -38,7 +38,6 @@ module "User3" {
     "Team5" = "member"
     "Team6" = "member"    
   }
-  
 }
 module "User4" {
   source   = "../lib/github_user"
