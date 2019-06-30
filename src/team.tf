@@ -1,24 +1,30 @@
-module "Team1"{
+module "Team1" {
   source = "../lib/github_team"
-  name = "Team1"
+  name   = "Team1"
 }
-module "Team2"{
+
+module "Team2" {
   source = "../lib/github_team"
-  name = "Team2"
+  name   = "Team2"
 }
-module "Team3"{
+
+module "Team3" {
   source = "../lib/github_team"
-  name = "Team3"
+  name   = "Team3"
 }
-module "Team4"{
+
+module "Team4" {
   source = "../lib/github_team"
-  name = "Team4"
+  name   = "Team4"
 }
-module "Team5"{
+
+module "Team5" {
   source = "../lib/github_team"
-  name = "Team5"
+  name   = "Team5"
 }
-module "Team6"{
+
+module "Team6" {
   source = "../lib/github_team"
-  name = "Team6"
+  name   = "Team6"
 }
+
