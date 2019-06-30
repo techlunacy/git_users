@@ -1,3 +1,3 @@
-output "address" {
-  value = "${github_team.team.slug}"
-}
+# output "address" {
+#   value = "${github_team.team.slug}"
+# }
